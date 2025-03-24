@@ -9,7 +9,7 @@ I'm Vihaan, a 13-year-old coding enthusiast. I've been coding for 4 years and lo
 
 * 🌍  I'm based in india
 * 🖥️  See my portfolio at [My Portfolio](http://vhaan.vercel.app)
-* ✉️  You can contact me at [thecodersdev@gmail.com](mailto:thecodersdev@gmail.com)
+* ✉️  You can contact me at [rsvn1233@gmail.com](mailto:rsvn1233@gmail.com)
 * 🧠  I'm learning web development in a better scale
 * 🤝  I'm open to collaborating on fun and interesting projects
 
